@@ -1,0 +1,6 @@
+A. Google Drive
+Link data yang digunakan untuk visualisasi python sudah dicantumkan dalam file .ipynb -nya.
+data yang digunakan untuk visualisasi Power BI sudah terdapat dalam folder data disini.
+B. Github
+Link data yang digunakan untuk visualisasi python sudah dicantumkan dalam file .ipynb -nya.
+data yang digunakan untuk visualisasi Power BI bernama gmv_modif2.
